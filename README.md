@@ -1,2 +1,2 @@
 # EatsLessMemory
-Task 1. Eats - Less memory cause
+Task 1. Eats - Less memory case
